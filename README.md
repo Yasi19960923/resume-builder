@@ -39,7 +39,7 @@ A modern, fully client-side ATS-friendly resume builder built with **React**, **
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/resume-builder.git
+git clone https://github.com/Yasi19960923/resume-builder.git
 cd resume-builder
 
 # Install dependencies
